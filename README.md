@@ -9,7 +9,7 @@ and run the operator console. Built as an original, design-led showcase.
 > fleet) is saved in your browser via `localStorage`. That makes it deploy to
 > Vercel — or any static host — with zero configuration.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** https://azimuth-liard.vercel.app/
 
 ---
 
